@@ -40,4 +40,5 @@ This project is aimed at predicting house prices based on various features using
 - **Name**: Anchal Dayal
 - **Email**: [anchal96200163@gmail.com](mailto:anchal96200163@gmail.com)
 - **LinkedIn**: [Anchal Dayal](https://www.linkedin.com/in/anchal-dayal0826/)
+- **Kaggele**: [Anchal_Dayal](https://www.kaggle.com/code/anchal0826/house-price-dataset-regression)
 - **GitHub**: [AnchalDayal](https://github.com/AnchalDayal)
